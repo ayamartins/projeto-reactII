@@ -1,0 +1,37 @@
+.projects-container {
+    background-color:#686AAC;
+    margin: 0 150px;
+    text-align:center;
+    
+   }
+   .projects-container h1{
+      color:#686AAC;
+    font-size:35px;
+   }
+   .project-card {
+     color:#686AAC;
+     background-color:whitesmoke;
+    margin: 15px 30%;
+    
+   }
+   .project-card img {
+    width:100%;
+   }
+   .project-card a {
+    text-decoration: none;
+    font-size:35px;
+    color:#686AAC;
+  
+   }
+   
+   @media screen and (max-width: 768px){
+    .textos{
+      padding:0;
+      font-size:15px;
+    }
+    .apresentacao{
+      display:inline-block;
+   
+      padding:0;
+    }
+  }
